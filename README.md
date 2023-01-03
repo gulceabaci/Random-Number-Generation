@@ -4,6 +4,7 @@
 
 - Random Number Generation Project was made using React.  
 - When the button is pressed between the min and max values given in the project, it generates a random number for us.
+- https://randomnumbergenerate.netlify.app/
 
 
 # Getting Started with Create React App
