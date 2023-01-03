@@ -1,6 +1,6 @@
-#Random Number Generation Project  
+# Random Number Generation Project  
 
-![image](https://user-images.githubusercontent.com/77458139/210315398-ad47a2ef-d482-4029-a1a1-9f720ddd8fa8.png)
+![Random-Number-Generation](https://user-images.githubusercontent.com/77458139/210315553-b170cc52-e66e-4768-9896-3f64c65f0e61.png)
 
 - Random Number Generation Project was made using React.  
 - When the button is pressed between the min and max values given in the project, it generates a random number for us.
